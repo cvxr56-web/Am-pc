@@ -1,0 +1,10 @@
+{
+  "name": "Open Motion",
+  "short_name": "Open Motion",
+  "description": "Open Motion is a video editor for creating animations, editing videos, and applying visual effects.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#10121d",
+  "theme_color": "#10121d"
+}
